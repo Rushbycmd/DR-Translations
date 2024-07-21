@@ -2,6 +2,7 @@
 Translate dungeon rampage!
 You can find them in the Translations files.
 # To contribute, copy the file you want to translate for, and the en_US file, translate the second part of the string, not the first part please.
+## DO NOT USE AIS OR GOOGLE TRANSLATE, FOR THE LOVE OF GOD, 
 - Slovak - sk_SK 
 - Czech - cs_CZ
 - Malay - ms_MY
